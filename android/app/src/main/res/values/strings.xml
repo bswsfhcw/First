@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">inlTHk3_KTO_cwtRFefR_2961sjQVyNNmQ_of</string>
+
+    <string name="app_name">FirstReDemo</string>
+</resources>

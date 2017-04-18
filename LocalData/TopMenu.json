@@ -1,0 +1,66 @@
+{
+    "data": [
+        [{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "电影",
+            "image": "danjianbao"
+        },{
+            "tittle": "酒店",
+            "image": "xiekuabao"
+        },{
+            "tittle": "休闲娱乐",
+            "image": "qiabao"
+        },{
+            "tittle": "外卖",
+            "image": "danjianbao"
+        },{
+            "tittle": "机票/火车票",
+            "image": "danjianbao"
+        },{
+            "tittle": "KTV",
+            "image": "danjianbao"
+        },{
+            "tittle": "周边游",
+            "image": "shoutibao"
+        },{
+            "tittle": "丽人美发",
+            "image": "danjianbao"
+        },{
+            "tittle": "旅游出行",
+            "image": "danjianbao"
+        }],
+           [{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        },{
+            "tittle": "美食",
+            "image": "danjianbao"
+        }]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "stid": "12123123",
+    "data": [
+        {
+            "position": 0,
+            "typeface_color": "#ff9900",
+            "id": 7486,
+            "share": {
+                "message": "一元能吃肯德基1",
+                "url": "http://i.meituan.com/firework/kfchanbao"
+            },
+            "title": "一元能吃肯德基",
+            "module": false,
+            "maintitle": "一元能吃肯德基",
+            "tpUrl": "imeituan://www.meituan.com/web?url=http://i.meituan.com/firework/kfchanbao",
+            "type": 1,
+            "imageurl": "http://p0.meituan.net/w.h/groupop/9aa35eed64db45aa33f9e74726c59d938450.png",
+            "solds": 0,
+            "deputytitle": "新用户专享"
+        },
+         {
+            "position": 0,
+            "typeface_color": "#ff9900",
+            "id": 7486,
+            "share": {
+                "message": "一元能吃肯德基2",
+                "url": "http://i.meituan.com/firework/kfchanbao"
+            },
+            "title": "一元能吃肯德基",
+            "module": false,
+            "maintitle": "一元能吃肯德基2",
+            "tpUrl": "imeituan://www.meituan.com/web?url=http://i.meituan.com/firework/kfchanbao",
+            "type": 1,
+            "imageurl": "http://p0.meituan.net/w.h/groupop/9aa35eed64db45aa33f9e74726c59d938450.png",
+            "solds": 0,
+            "deputytitle": "新用户专享"
+        },
+         {
+            "position": 0,
+            "typeface_color": "#ff9900",
+            "id": 7486,
+            "share": {
+                "message": "一元能吃肯德基3",
+                "url": "http://i.meituan.com/firework/kfchanbao"
+            },
+            "title": "一元能吃肯德基",
+            "module": false,
+            "maintitle": "一元能吃肯德基3",
+            "tpUrl": "imeituan://www.meituan.com/web?url=http://i.meituan.com/firework/kfchanbao",
+            "type": 1,
+            "imageurl": "http://p0.meituan.net/w.h/groupop/9aa35eed64db45aa33f9e74726c59d938450.png",
+            "solds": 0,
+            "deputytitle": "新用户专享"
+        },
+         {
+            "position": 0,
+            "typeface_color": "#ff9900",
+            "id": 7486,
+            "share": {
+                "message": "一元能吃肯德基",
+                "url": "http://i.meituan.com/firework/kfchanbao"
+            },
+            "title": "一元能吃肯德基",
+            "module": false,
+            "maintitle": "一元能吃肯德基4",
+            "tpUrl": "imeituan://www.meituan.com/web?url=http://i.meituan.com/firework/kfchanbao",
+            "type": 1,
+            "imageurl": "http://p0.meituan.net/w.h/groupop/9aa35eed64db45aa33f9e74726c59d938450.png",
+            "solds": 0,
+            "deputytitle": "新用户专享"
+        }
+    ],
+    "server": {
+        "time": 145566
+    },
+    "paging": {
+        "count": 5
+    }
+}

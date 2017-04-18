@@ -1,0 +1,34 @@
+{
+	"data":[
+		{"icon":"jiugongge1",
+			"title":"小马哥分享"	
+		},
+		{"icon":"jiugongge2",
+			"title":"开心网分享"	
+		},
+		{"icon":"jiugongge3",
+			"title":"QQ分享"	
+		},
+		{"icon":"jiugongge4",
+			"title":"QQ空间分享"	
+		},
+		{"icon":"jiugongge5",
+			"title":"QQ微博分享"	
+		},
+		{"icon":"jiugongge6",
+			"title":"人人网分享"	
+		},
+		{"icon":"jiugongge7",
+			"title":"微信分享"	
+		},
+		{"icon":"jiugongge8",
+			"title":"微博分享"	
+		},
+		{"icon":"jiugongge9",
+			"title":"朋友圈分享"	
+		},
+		{"icon":"jiugongge10",
+			"title":"短信分享"	
+		},
+	]
+}
